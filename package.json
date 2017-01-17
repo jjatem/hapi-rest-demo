@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/espiderinc/hapi-rest-demo.git"
+    "url": "git+https://github.com/jjatem/hapi-rest-demo.git"
   },
   "keywords": [
     "nodejs",
